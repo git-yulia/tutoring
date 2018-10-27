@@ -12,3 +12,5 @@ disp(vector);
 % accessing (i,j)th element of a vector 
 disp(vector(3,2));
 
+
+
